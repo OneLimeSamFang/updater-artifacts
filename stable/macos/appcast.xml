@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
+    <channel>
+        <title>UpdaterDemo</title>
+        <description>UpdaterDemo macOS Updates</description>
+        <language>zh-CN</language>
+
+        <item>
+            <title>Version 1.0.1</title>
+
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+
+            <description><![CDATA[
+                <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;line-height:1.55;color:#20242c;padding:12px 16px;">
+                    <div style="margin-bottom:4px;color:#5369c8;font-size:11px;font-weight:700;letter-spacing:.08em;">更新说明</div>
+                    <div style="font-size:19px;font-weight:650;">updater_demo</div>
+                    <div style="margin:3px 0 16px;color:#707784;font-size:12px;">版本 1.0.1</div>
+                    <ul style="margin:0;padding-left:20px;font-size:13px;">
+                        <li style="margin-bottom:8px;">修复部分已知问题</li>
+                        <li style="margin-bottom:8px;">优化应用启动速度</li>
+                        <li>提升稳定性</li>
+                    </ul>
+                </div>
+            ]]></description>
+
+            <pubDate>Fri, 20 Nov 2026 15:00:00 +0800</pubDate>
+
+            <enclosure
+                url="https://gitee.com/onelime_software/updater-artifacts/raw/master/releases/1.0.1+2/updater_demo-1.0.1+2-macos.zip"
+                sparkle:edSignature="Et5Y0k/7uWzzEkgEEa6gAviqtI/2GT5rrOqlBSJGXoMlKe5DcTI3ntRzz97zU5VzSVIF8kJP1ZeLh8Yy89cFBQ=="
+                sparkle:os="macos"
+                length="20045174"
+                type="application/octet-stream" />
+        </item>
+
+    </channel>
+</rss>
