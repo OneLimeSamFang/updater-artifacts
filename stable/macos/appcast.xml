@@ -29,7 +29,7 @@
             <pubDate>Fri, 20 Nov 2026 15:00:00 +0800</pubDate>
 
             <enclosure
-                url="https://github.com/OneLimeSamFang/updater-artifacts/raw/master/releases/1.0.1+2/updater_demo-1.0.1+2-macos.zip"
+                url="https://github.com/OneLimeSamFang/updater-artifacts/raw/main/releases/1.0.1+2/updater_demo-1.0.1+2-macos.zip"
                 sparkle:edSignature="Et5Y0k/7uWzzEkgEEa6gAviqtI/2GT5rrOqlBSJGXoMlKe5DcTI3ntRzz97zU5VzSVIF8kJP1ZeLh8Yy89cFBQ=="
                 sparkle:os="macos"
                 length="20045174"
